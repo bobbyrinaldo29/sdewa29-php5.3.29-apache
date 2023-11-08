@@ -5,7 +5,7 @@
 - Apache
 - PHP
 
-## Extention
+## Extension
 - apc
 - bcmath
 - Core
